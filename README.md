@@ -44,7 +44,7 @@
     <script src="scripts.js"></script>
 </body>
 </html>
-[13/10, 18:28] Kowshik Darling ❤️: body {
+ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
